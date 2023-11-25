@@ -9,14 +9,14 @@
 
 ## Links:
 
-- **Introdução e Conclusão do Projeto (Enterprise):**
-  [Vídeo 1](https://youtu.be/XSgha6vD8n4)
-
-- **Sistema em Funcionamento (Sprint 3):**
-  [Vídeo 2](https://youtu.be/tj-twMtjp6k)
+- **Deploy em nuvem:**
+  [Link 1](https://api-gsolution-digital.azurewebsites.net/)
   
-- **Sistema Final em Funcionamento (Sprint 4):**
-  [Vídeo 3](https://youtu.be/vEzI222PJoM)
+- **Explicação Aplicação:**
+  [Vídeo 1](https://youtu.be/dzDqoCCDGMI)
+
+- **Pitch:**
+  [Vídeo 2](https://youtu.be/oE6d2Zkpms4)
 
 
 ## Endpoints
